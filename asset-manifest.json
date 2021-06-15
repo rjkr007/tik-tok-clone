@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tik-tok-clone/static/css/main.d7e80978.chunk.css",
+    "main.js": "/tik-tok-clone/static/js/main.d3051631.chunk.js",
+    "main.js.map": "/tik-tok-clone/static/js/main.d3051631.chunk.js.map",
+    "runtime-main.js": "/tik-tok-clone/static/js/runtime-main.896d6f9c.js",
+    "runtime-main.js.map": "/tik-tok-clone/static/js/runtime-main.896d6f9c.js.map",
+    "static/js/2.fa70c339.chunk.js": "/tik-tok-clone/static/js/2.fa70c339.chunk.js",
+    "static/js/2.fa70c339.chunk.js.map": "/tik-tok-clone/static/js/2.fa70c339.chunk.js.map",
+    "index.html": "/tik-tok-clone/index.html",
+    "static/css/main.d7e80978.chunk.css.map": "/tik-tok-clone/static/css/main.d7e80978.chunk.css.map",
+    "static/js/2.fa70c339.chunk.js.LICENSE.txt": "/tik-tok-clone/static/js/2.fa70c339.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.896d6f9c.js",
+    "static/js/2.fa70c339.chunk.js",
+    "static/css/main.d7e80978.chunk.css",
+    "static/js/main.d3051631.chunk.js"
+  ]
+}
